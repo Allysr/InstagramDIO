@@ -10,6 +10,6 @@
 <img height="300em" alt="Projeto" src="https://i.ibb.co/MkQzCBS/Instagram-Dio.png"/>
 </p>
  
-<h4 align="center"><a href="allysr.github.io/instagram-dio/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://allysr.github.io/Instagram-DIO/>Clique para visitar o projeto</a></h4>
 
 <h1>
