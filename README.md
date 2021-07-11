@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-<img height="300em" alt="Projeto" src="https://i.ibb.co/jbqL1mY/allysr-github-io-Instagram-DIO.png"/>
+<img height="300em" alt="Projeto" src="https://i.ibb.co/MkQzCBS/Instagram-Dio.png"/>
 </p>
  
 <h4 align="center"><a href="allysr.github.io/instagram-dio/">Clique para visitar o projeto</a></h4>
